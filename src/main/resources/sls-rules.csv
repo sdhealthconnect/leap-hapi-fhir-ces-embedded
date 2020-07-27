@@ -1,0 +1,8 @@
+"Comments","Clinical Code",,,,"Sensitivity Code",,,,"Confidentiality Code",,,
+,"System Code","System Display","Code","Display","System Code","System Display","Code","Display","System Code","System Display","Code","Display"
+"42 CFR Part 2 - CONFIDENTIALITY OF ALCOHOL AND DRUG ABUSE PATIENT RECORDS","http://www.nlm.nih.gov/research/umls/rxnorm","RxNorms",151358,"Antabuse","http://hl7.org/fhir/v3/ActCode",,"ETH","substance abuse information sensitivity","http://hl7.org/fhir/v3/Confidentiality",,"R","Restricted"
+,"http://snomed.info/sct","SNOMED",62479008,"Acquired immune deficiency syndrome (disorder)","http://hl7.org/fhir/v3/ActCode",,"HIV","HIV/AIDS information sensitivity ","http://hl7.org/fhir/v3/Confidentiality",,"V","Very Restricted"
+"42 CFR Part 2 - CONFIDENTIALITY OF ALCOHOL AND DRUG ABUSE PATIENT RECORDS","http://snomed.info/sct","SNOMED",26416006,"Drug abuse (disorder)","http://hl7.org/fhir/v3/ActCode",,"ETH","substance abuse information sensitivity","http://hl7.org/fhir/v3/Confidentiality",,"R","Restricted"
+,"http://www.nlm.nih.gov/research/umls/rxnorm","RxNorms",82728,"Zoloft","http://hl7.org/fhir/v3/ActCode",,"PSY","psychiatry information sensitivity","http://hl7.org/fhir/v3/Confidentiality",,"R","Restricted"
+,"http://snomed.info/sct","SNOMED",73211009,"Diabetes",,,,,"http://hl7.org/fhir/v3/Confidentiality",,"R","Restricted"
+"Drug abuse information sensitivity","2.16.840.1.113883.6.103","ICD-9","305.73","Amphetamine or related acting sympathomimetic abuse, in remission","http://hl7.org/fhir/v3/ActCode",,"ETH","substance abuse information sensitivity","http://hl7.org/fhir/v3/Confidentiality",,"R","Restricted"
